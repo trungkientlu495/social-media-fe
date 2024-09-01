@@ -1,0 +1,15 @@
+export default {
+    HOMEPAGE: '/',
+    LOGINPAGE: '/login',
+    REGISTERPAGE: '/register',
+    ABOUTPAGE: '/about',
+    PROFILEPAGE: '/profile/:id',
+    PROFILEPAGE1: '/profile',
+    FRIENDSHIPPAGE: '/friendship',
+    FRIENDPAGE: '/friendship/friend',
+    FRIENDREQUESTPAGE: '/friendship/friend-request',
+    FRIENDPENDINGPAGE: '/friendship/friend-pending',
+    BLOCKPAGE: '/friendship/block',
+    CHATPAGE: '/chat',
+    NOT_FOUND: '*',
+};
